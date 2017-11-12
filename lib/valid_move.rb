@@ -16,3 +16,5 @@ def position_taken? (board, index)
     true
   end
 end
+
+board = Array.new(9, " ")
